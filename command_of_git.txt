@@ -1,0 +1,25 @@
+2 ls
+   3 ls -l
+   4 ls -1
+   5 rm -f testing.py
+   6 rm -r testing.py
+   7 git init
+   8 git status
+   9 git status
+  10 git add .
+  11 git status
+  12 git commit -m "add the file"
+  13 git status
+  14 rm test.py
+  15 ls
+  16 git status
+  17 git restore
+  18 git restore test.py
+  19 git remote add origin https://github.com/Robinsingh200/G... 
+  20 git status
+  21 git remote -v
+  22 git push origin master
+
+
+
+  
